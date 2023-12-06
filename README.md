@@ -3,5 +3,5 @@ Jaden Carillo
 
 ## **Hajime no Ippo**
 x
----
+ ---
 
