@@ -1,6 +1,5 @@
 # MarJadenFranCar.github.io
 Jaden Carillo
----
 
 | x | o | x |
 | - | - | - |
