@@ -1,4 +1,7 @@
-# MarJadenFranCar.github.io
+# *MarJadenFranCar.github.io*
 Jaden Carillo
 
-## Hajime no Ippo
+## **Hajime no Ippo**
+x
+---
+
